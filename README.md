@@ -7,4 +7,4 @@
   
 ## Data
 데이터는 따로 Kaggle에서 확인할 수 있습니다.<br>
-각각 Kaggle에 존재하는 abalone, faults, pulsar 데이터를 사용하였습니다.
+각각 Kaggle에 존재하는 abalone, faults, pulsar 데이터를 사용
